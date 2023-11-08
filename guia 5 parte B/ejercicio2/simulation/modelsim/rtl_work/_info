@@ -1,0 +1,114 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\coradir -fpga\ejercicio2\simulation\modelsim
+Ed_ff
+Z1 w1698940088
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z4 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z5 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z6 dF:\coradir -fpga\ejercicio2\simulation\modelsim
+Z7 8F:/coradir -fpga/ejercicio2/D_FF.vhd
+Z8 FF:/coradir -fpga/ejercicio2/D_FF.vhd
+l0
+L6
+V4=IKP?^Hh[c2hHNUA1G311
+Z9 OV;C;10.1d;51
+31
+Z10 !s108 1698948945.137000
+Z11 !s90 -reportprogress|300|-93|-work|work|F:/coradir -fpga/ejercicio2/D_FF.vhd|
+Z12 !s107 F:/coradir -fpga/ejercicio2/D_FF.vhd|
+Z13 o-93 -work work -O0
+Z14 tExplicit 1
+!s100 UFgW_f?Ig58c<i]2HNHEF2
+!i10b 1
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 4 d_ff 0 22 4=IKP?^Hh[c2hHNUA1G311
+l11
+L10
+V5KQ0CQC5cKR1Qn<gR_hZT3
+R9
+31
+R10
+R11
+R12
+R13
+R14
+!s100 <P3MIQ;7FCHI>zRa4R79Q1
+!i10b 1
+Esumador_completo
+Z15 w1698941836
+R4
+R5
+R6
+Z16 8F:/coradir -fpga/ejercicio2/sumador_completo.vhd
+Z17 FF:/coradir -fpga/ejercicio2/sumador_completo.vhd
+l0
+L3
+VX@fdlk:gc=]BeeRi>MU5d2
+R9
+31
+Z18 !s108 1698948945.824000
+Z19 !s90 -reportprogress|300|-93|-work|work|F:/coradir -fpga/ejercicio2/sumador_completo.vhd|
+Z20 !s107 F:/coradir -fpga/ejercicio2/sumador_completo.vhd|
+R13
+R14
+!s100 0a?l3[2jz@`oP4CP1ASO;0
+!i10b 1
+Abehavioral
+R4
+R5
+DEx4 work 16 sumador_completo 0 22 X@fdlk:gc=]BeeRi>MU5d2
+l22
+L13
+VK4Sm:`9_OeHMM_ebKDD;N3
+R9
+31
+R18
+R19
+R20
+R13
+R14
+!s100 S[[Ti1P4V?_P?cQnCN[oX1
+!i10b 1
+Esumador_completo_testbench
+Z21 w1698946764
+R4
+R5
+R6
+Z22 8F:/coradir -fpga/ejercicio2/sumador_completo_testbench.vhd
+Z23 FF:/coradir -fpga/ejercicio2/sumador_completo_testbench.vhd
+l0
+L3
+V6jZzONz9?AOZO4dd][EVz1
+!s100 e2hQ^YgAMbdUYFYVBbUW`3
+R9
+31
+!i10b 1
+Z24 !s108 1698948946.463000
+Z25 !s90 -reportprogress|300|-93|-work|work|F:/coradir -fpga/ejercicio2/sumador_completo_testbench.vhd|
+Z26 !s107 F:/coradir -fpga/ejercicio2/sumador_completo_testbench.vhd|
+R13
+R14
+Abehavior
+R4
+R5
+DEx4 work 26 sumador_completo_testbench 0 22 6jZzONz9?AOZO4dd][EVz1
+l31
+L5
+VkeDSEh`LSUhAMj@C02f8]1
+!s100 EQ0oGX82=;YTC_iT5B16[2
+R9
+31
+!i10b 1
+R24
+R25
+R26
+R13
+R14

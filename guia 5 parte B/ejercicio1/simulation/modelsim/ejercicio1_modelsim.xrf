@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, F:/guia FPGA/ejercicio1.vhd
+source_file = 1, F:/coradir -fpga/ejercicio1/Waveform.vwf
+source_file = 1, F:/coradir -fpga/ejercicio1/ejercicio1_diagram_block.bdf
+source_file = 1, F:/coradir -fpga/ejercicio1/db/ejercicio1.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = ejercicio1_diagram_block
+instance = comp, \LED~output , LED~output, ejercicio1_diagram_block, 1
+instance = comp, \LED8~output , LED8~output, ejercicio1_diagram_block, 1
+instance = comp, \SW1~input , SW1~input, ejercicio1_diagram_block, 1
+instance = comp, \SW2~input , SW2~input, ejercicio1_diagram_block, 1

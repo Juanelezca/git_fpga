@@ -1,0 +1,112 @@
+$comment
+	File created using the following command:
+		vcd file ejercicio1.msim.vcd -direction
+$end
+$date
+	Thu Nov 02 11:14:26 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module ejercicio1_diagram_block_vlg_vec_tst $end
+$var reg 1 ! SW1 $end
+$var reg 1 " SW2 $end
+$var wire 1 # LED $end
+$var wire 1 $ LED8 $end
+$var wire 1 % sampler $end
+$scope module i1 $end
+$var wire 1 & gnd $end
+$var wire 1 ' vcc $end
+$var wire 1 ( unknown $end
+$var tri1 1 ) devclrn $end
+$var tri1 1 * devpor $end
+$var tri1 1 + devoe $end
+$var wire 1 , LED~output_o $end
+$var wire 1 - LED8~output_o $end
+$var wire 1 . SW1~input_o $end
+$var wire 1 / SW2~input_o $end
+$var wire 1 0 inst4~combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+x#
+x$
+x%
+0&
+1'
+x(
+1)
+1*
+1+
+x,
+x-
+0.
+0/
+x0
+$end
+#2853
+00
+#5959
+1-
+1$
+#5985
+1,
+1#
+#20000
+1!
+0%
+#20516
+1.
+#140000
+0!
+1%
+#140681
+0.
+#260000
+1"
+0%
+#260516
+1/
+#420000
+0"
+1%
+#420681
+0/
+#640000
+1!
+1"
+0%
+#640516
+1/
+1.
+#643312
+10
+#646426
+0-
+0$
+#646454
+0,
+0#
+#880000
+0!
+0"
+1%
+#880681
+0/
+0.
+#883534
+00
+#886640
+1-
+1$
+#886666
+1,
+1#
+#1000000
